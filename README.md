@@ -1,2 +1,2 @@
 # learning-notebooks
-self driven notebooks
+Personal notes
